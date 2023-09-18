@@ -27,3 +27,21 @@
 - Create ordered and unordered lists in Markdown
 
 - Demonstrate your proficiency in using Markdown in Jupyter notebooks
+
+### R 
+## R Studio
+# Getting Familiar with R Studio 
+Hello World Print
+![image](https://github.com/kalejcamto/JupyterLab/assets/101201140/e7f30661-fc7d-40c5-896b-4632eebbd3a1)
+
+Creating and running my first R file Script
+![image](https://github.com/kalejcamto/JupyterLab/assets/101201140/07ad87d6-acd8-46b2-8b08-1f855258848b)
+
+# ggplot 
+first practice on code for ggplot visuals
+![image](https://github.com/kalejcamto/JupyterLab/assets/101201140/d7b2d98e-f651-4df7-9a88-52ea11f53157)
+
+
+
+
+
